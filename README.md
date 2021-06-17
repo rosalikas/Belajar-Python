@@ -1,2 +1,2 @@
 # Belajar-Python
-Pracktice untuk python
+practice about python
